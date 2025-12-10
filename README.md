@@ -38,6 +38,14 @@ The app uses **MediaPipe** for client-side face tracking (privacy-first) and **G
    - **Unresponsive (Emergency)**: Keep eyes closed for 8+ seconds. Emergency siren activates.
 4. **Analysis**: Click **STOP DRIVING**. The app will use Gemini to analyze your session performance and offer a safety tip.
 
+## Images
+<img width="535" height="518" alt="Screenshot 2025-12-10 134436" src="https://github.com/user-attachments/assets/7e6a29dc-c4f5-4779-a6bc-0b2ae80e3cf2" />
+<img width="920" height="254" alt="Screenshot 2025-12-10 134457" src="https://github.com/user-attachments/assets/75acca12-020a-4b5c-a56f-ec698d30ad13" />
+<img width="926" height="241" alt="Screenshot 2025-12-10 134505" src="https://github.com/user-attachments/assets/1c04d7f7-5b79-4952-9ca0-0ed792e4fa37" />
+<img width="945" height="255" alt="Screenshot 2025-12-10 134525" src="https://github.com/user-attachments/assets/e3f3c451-655f-43fb-98ba-b29e4603cc69" />
+<img width="1261" height="709" alt="Screenshot 2025-12-10 134558" src="https://github.com/user-attachments/assets/cb08af45-afd9-41fc-ad6a-dbdc47c79a1a" />
+
+
 ## 📂 Project Structure
 
 - `App.tsx`: Main game loop, MediaPipe integration, and state management.
