@@ -44,6 +44,13 @@ The app uses **MediaPipe** for client-side face tracking (privacy-first) and **G
 <img width="926" height="241" alt="Screenshot 2025-12-10 134505" src="https://github.com/user-attachments/assets/1c04d7f7-5b79-4952-9ca0-0ed792e4fa37" />
 <img width="945" height="255" alt="Screenshot 2025-12-10 134525" src="https://github.com/user-attachments/assets/e3f3c451-655f-43fb-98ba-b29e4603cc69" />
 <img width="1261" height="709" alt="Screenshot 2025-12-10 134558" src="https://github.com/user-attachments/assets/cb08af45-afd9-41fc-ad6a-dbdc47c79a1a" />
+<img width="256" height="334" alt="Screenshot 2025-12-10 141456" src="https://github.com/user-attachments/assets/b5253ca2-4702-4bd5-8972-e10cd30aae5b" />
+<img width="713" height="339" alt="Screenshot 2025-12-10 141509" src="https://github.com/user-attachments/assets/df1d388d-d5ad-4614-b99f-a5782765816b" />
+<img width="697" height="337" alt="Screenshot 2025-12-10 141525" src="https://github.com/user-attachments/assets/6f9e2c61-f668-42b6-9164-3cfa89fcb36c" />
+<img width="731" height="334" alt="Screenshot 2025-12-10 141540" src="https://github.com/user-attachments/assets/39d5e36f-23b5-4c96-a171-d4e7951dbcf8" />
+<img width="731" height="325" alt="Screenshot 2025-12-10 141605" src="https://github.com/user-attachments/assets/0111ee48-9401-45f4-85e5-f0a8b2b0df9d" />
+<img width="736" height="336" alt="Screenshot 2025-12-10 141645" src="https://github.com/user-attachments/assets/f7c80f21-5e55-427a-a7de-1ac8093c2ae6" />
+
 
 
 ## 📂 Project Structure
