@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Driver Safety System",
+  "description": "Real-time drowsiness detection with 3D vehicle simulation and AI-powered emergency response logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
